@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>BG0</title>
-  <style>
-    .tile { fill: #0a0a0a; }
-    .bite { fill: #ffffff; }
-    @media (prefers-color-scheme: dark) {
-      .tile { fill: #ededed; }
-      .bite { fill: #0a0a0a; }
-    }
-  </style>
-  <rect class="tile" width="64" height="64" rx="17"/>
-  <circle class="bite" cx="52.5" cy="52.5" r="20.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>BG0</title><style>.tile{fill:#0a0a0a}.bite{fill:#fff}@media (prefers-color-scheme:dark){.tile{fill:#ededed}.bite{fill:#0a0a0a}}</style><rect width="64" height="64" class="tile" rx="17"/><circle cx="52.5" cy="52.5" r="20.5" class="bite"/></svg>
